@@ -1,4 +1,4 @@
-# melon-ai
+# (Water)MelonAI
 
 GPT enhanced chat
 
